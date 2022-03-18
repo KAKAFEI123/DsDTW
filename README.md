@@ -1,6 +1,6 @@
 # DsDTW
 
-### The DsDTW method [1] for dynamic signature verification. 
+### The DsDTW method [1] for dynamic signature verification. (Coming soon...)
 
 This repository implements a soft-DTW-based deep model for learning online signature representations. The introduction of soft-DTW is inspired by Cuturi et al.'s work [3]. The design of model structure is based on the recurrent adaptation network in our previous work [2]. To use this repository, you should first download the DeepSignDB database [4]. If you find this repository useful, please cite our papers [1,2]. For further application in handwritten digit verification and letter identification, please download the e-BioDigit [5] and LERID [6] databases.
 
