@@ -20,7 +20,7 @@ Tested with PyTorch 1.6 and Python 3.7.
 
 ### References
 
-[1] Jiang J, Lai S, Jin L, et al. DsDTW: Local representation learning with Deep soft-DTW for Dynamic Signature Verification.
+[1] Jiang J, Lai S, Jin L, et al. DsDTW: Local Representation Learning with Deep soft-DTW for Dynamic Signature Verification[J]. IEEE Transactions on Information Forensics and Security, 2022.
 
 [2] Lai S, Jin L. Recurrent adaptation networks for online signature verification[J]. IEEE Transactions on information forensics and security, 2018, 14(6): 1624-1637.
 
