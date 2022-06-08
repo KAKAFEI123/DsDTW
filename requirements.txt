@@ -1,0 +1,12 @@
+matplotlib==2.2.3
+numpy==1.17.4
+torch==1.6.0 
+torchaudio==0.9.1
+torchvision==0.7.0
+iisignature==0.23
+fastdtw==0.3.2
+scipy==1.4.1
+PyYAML==3.13
+cudatoolkit==10.1.243
+numba==0.51.2
+llvmlite==0.34.0
