@@ -33,6 +33,24 @@ Python 3.7.5 or a later version is suggested. The package dependencies can be se
 
 [4] Tolosana R, Vera-Rodriguez R, Fierrez J, et al. DeepSign: Deep on-line signature verification[J]. IEEE Transactions on Biometrics, Behavior, and Identity Science, 2021.
 
-### Contacts
+### Citation and Contacts
 
-jiajiajiang123@qq.com & eesxlai@qq.com & eelwjin@scut.edu.cn
+Please consider to cite our paper if you find the codes useful.
+
+```
+@article{jiang2022dsdtw,
+  title={DsDTW: Local Representation Learning with Deep soft-DTW for Dynamic Signature Verification},
+  author={Jiang, Jiajia and Lai, Songxuan and Jin, Lianwen and Zhu, Yecheng},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2022},
+  publisher={IEEE}
+}
+```
+
+For any questions about the codes, please contact the authors by sending emails to Prof. Jin (eelwjin@scut.edu.cn), Jiajia Jiang (jiajiajiang123@qq.com), or Songxuan Lai (eesxlai@qq.com).
+
+### Copyright
+
+This code is free to the academic community for research purpose only. For commercial purpose usage, please contact Dr. Lianwen Jin: lianwen.jin@gmail.com.
+
+
