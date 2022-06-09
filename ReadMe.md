@@ -35,7 +35,7 @@ Python 3.7.5 or a later version is suggested. The package dependencies can be se
 
 ### Citation and Contacts
 
-Please consider to cite our paper if you find the codes useful.
+Please consider to cite our paper if you find the code useful.
 
 ```
 @article{jiang2022dsdtw,
@@ -51,6 +51,6 @@ For any questions about the codes, please contact the authors by sending emails 
 
 ### Copyright
 
-This code is free to the academic community for research purpose only. For commercial purpose usage, please contact Dr. Lianwen Jin: lianwen.jin@gmail.com.
+This code is free to the academic community for research purpose only. For commercial purpose usage, please contact Dr. Lianwen Jin: eelwjin@scut.edu.cn.
 
 
