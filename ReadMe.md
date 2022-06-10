@@ -1,6 +1,6 @@
 ## The DsDTW method [1] for dynamic signature verification.
 
-This repository implements a soft-DTW-based deep model for learning online signature representations. The soft-DTW was cited from Cuturi et al.'s work [3]. The model structure is based on the recurrent adaptation network in our previous work [2]. To use this repository, you should first download the DeepSignDB database [4]. If you find this repository useful, please cite our papers [1,2]. 
+This repository implements a soft-DTW-based deep model for learning online signature representations. The soft-DTW was cited from Cuturi et al.'s work [3]. The fast CUDA implementation of soft-DTW for pytorch refers to Maghoumi et al.'s work [5]. The model structure is based on the recurrent adaptation network in our previous work [2]. To use this repository, you should first download the DeepSignDB database [4]. If you find this repository useful, please cite our papers [1,2]. 
 
 ![Alt text](./images/DsDTW.PNG)
 
@@ -32,6 +32,8 @@ Python 3.7.5 or a later version is suggested. The package dependencies can be se
 [3] Cuturi M, Blondel M. Soft-dtw: a differentiable loss function for time-series[C]//International conference on machine learning. PMLR, 2017: 894-903.
 
 [4] Tolosana R, Vera-Rodriguez R, Fierrez J, et al. DeepSign: Deep on-line signature verification[J]. IEEE Transactions on Biometrics, Behavior, and Identity Science, 2021.
+
+[5] https://github.com/Maghoumi/pytorch-softdtw-cuda.git.
 
 ### Citation and Contacts
 
