@@ -25,7 +25,7 @@ Python 3.7.5 or a later version is suggested. The package dependencies can be se
 
 ### References
 
-[1] Jiang J, Lai S, Jin L, et al. DsDTW: Local Representation Learning with Deep soft-DTW for Dynamic Signature Verification[J]. IEEE Transactions on Information Forensics and Security, 2022.
+[1] Jiang J, Lai S, Jin L, et al. DsDTW: Local Representation Learning With Deep soft-DTW for Dynamic Signature Verification[J]. IEEE Transactions on Information Forensics and Security, 2022, 17: 2198-2212.
 
 [2] Lai S, Jin L. Recurrent adaptation networks for online signature verification[J]. IEEE Transactions on information forensics and security, 2018, 14(6): 1624-1637.
 
@@ -41,9 +41,11 @@ Please consider to cite our paper if you find the code useful.
 
 ```
 @article{jiang2022dsdtw,
-  title={DsDTW: Local Representation Learning with Deep soft-DTW for Dynamic Signature Verification},
+  title={DsDTW: Local Representation Learning With Deep soft-DTW for Dynamic Signature Verification},
   author={Jiang, Jiajia and Lai, Songxuan and Jin, Lianwen and Zhu, Yecheng},
   journal={IEEE Transactions on Information Forensics and Security},
+  volume={17},
+  pages={2198--2212},
   year={2022},
   publisher={IEEE}
 }
